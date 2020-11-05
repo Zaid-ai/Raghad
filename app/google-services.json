@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538621289967",
+    "firebase_url": "https://hayat-572e0.firebaseio.com",
+    "project_id": "hayat-572e0",
+    "storage_bucket": "hayat-572e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538621289967:android:f7e2900d7b6ca7e4b3c21a",
+        "android_client_info": {
+          "package_name": "com.example.hayat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538621289967-ku5qdfks0m5vk6npespd7sm8isng7b9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGS9WYn7pyAW7h_zjglbKIfOforxESkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538621289967-ku5qdfks0m5vk6npespd7sm8isng7b9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

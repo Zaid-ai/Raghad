@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="none"
+        android:visible="true">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_secvices"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Caigories" />
+
+        <item
+            android:id="@+id/nav_application"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Apply" />
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Profile" />
+        <item
+            android:id="@+id/signout"
+            android:icon="@drawable/logout"
+            android:title="Signout" />
+    </group>
+</menu>
